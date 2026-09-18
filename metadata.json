@@ -1,0 +1,6 @@
+{
+  "name": "아이랑 노는날 - 전국 키즈 나들이 가이드",
+  "description": "지역별 아이와 함께 가기 좋은 테마파크, 과학관, 동물원, 자연체험, 실내놀이터 추천 및 부모 꿀팁 가이드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
